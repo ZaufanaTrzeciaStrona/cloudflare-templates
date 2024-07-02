@@ -16,6 +16,10 @@ body {
     padding: 20px;
 }
 
+a {
+    color: hotpink;
+}
+
 .logo {
     margin-bottom: 20px;
     max-width: 60%;
