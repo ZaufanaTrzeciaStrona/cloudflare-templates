@@ -33,6 +33,7 @@ a {
     background-color: transparent;
     color: white;
     font-weight: bold;
+    max-width: 85%;
 
     ul {
         list-style-type: none;
