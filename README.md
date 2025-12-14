@@ -1,4 +1,4 @@
-# Cloudflare Error Template
+# Cloudflare Error Templates
 
 Simple error templates for Cloudflare.
 
